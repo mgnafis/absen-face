@@ -1,0 +1,4 @@
+cmake
+libsm-dev
+libxext-dev
+libboost-all-dev
