@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+face-recognition
+streamlit-webrtc
+Pillow
+scikit-learn # face_recognition mungkin memerlukan ini secara implisit
+dlib # face_recognition memerlukan ini, tetapi seringkali sudah terinstal bersama face-recognition
+pickle-mixin # untuk memastikan pickle berfungsi dengan baik
